@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/amov/amovcar/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/amov/cartographer_ws/install_isolated/include/**",
+        "/home/amov/amovcar/src/common/function/amovcar_function/include/**",
+        "/home/amov/amovcar/src/R200/lingao_ros/lingao_base/include/**",
+        "/home/amov/amovcar/src/common/function/move_base/include/**",
+        "/home/amov/amovcar/src/common/sensor/realsense-ros/realsense2_camera/include/**",
+        "/home/amov/amovcar/src/R300/scout_ros/scout_base/include/**",
+        "/home/amov/amovcar/src/R300/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
